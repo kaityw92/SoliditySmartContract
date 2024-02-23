@@ -1,1 +1,3 @@
 # SoliditySmartContract
+
+#### Hello! Thank you for taking a look at my work using Solidity and Smart Contracts. You should see my solidity file named "joint_savings.sol" as well as some images I uploaded to show the functionality of my contract. Remix_1 and Remix_2 images show how I had each account entered. T1_Conversion is how I converted ether to Wei for my first transaction, and then T1_Trans is when I successfully executed it. You will see the same process with images T2_Conversion and T2_Trans. Thank you again for taking a look at my work! This is my first time building and executing a contract this detailed and I look forward to building upon these skills. 
